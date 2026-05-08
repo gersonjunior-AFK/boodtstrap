@@ -1,0 +1,33 @@
+.form-boot {
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.mb-3,
+.senha {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: left;
+}
+
+.btn {
+    background-color: rgb(0, 255, 47);
+    color: white;
+    width: 100px;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.lembrar{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
